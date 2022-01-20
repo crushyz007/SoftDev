@@ -20,7 +20,7 @@ body{
     position: fixed;
     top:30%;
     left:60%;
-    color: rgb(14, 168, 130);
+    color: #0ea882;
     font-family: 'Oxygen', sans-serif;
 }
 .text{
@@ -40,4 +40,15 @@ body{
     left:45%;
     color: rgb(14, 168, 130);
     font-family: 'Fahkwang',sans-serif;
+}
+.image-container {
+    position: fixed;
+    top: 0; 
+    right: 0;
+    display: block;
+}
+.song{
+    position: fixed;
+    top: 28%;
+    left: 77.5%;
 }
